@@ -1,0 +1,9 @@
+{
+  "name": "antd-iconfont-fix",
+  "version": "1.0.0",
+  "description": "Fixed antd iconfont can't use local file bug",
+  "main": "antd.css",
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
